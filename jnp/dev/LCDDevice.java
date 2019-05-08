@@ -13,7 +13,6 @@ import com.pi4j.io.i2c.I2CFactory.UnsupportedBusNumberException;
  * http://wiki.sunfounder.cc/index.php?title=I2C_LCD2004 
  * and Python code found here: 
  * https://www.recantha.co.uk/blog/?p=4849
- * These links also give great 
  */
 @SuppressWarnings("unused")
 public class LCDDevice {
